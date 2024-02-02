@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Art/Character/sheep_low_MixamoRig.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Art/Character/sheep_low_MixamoRig_PhysicsAsset.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Art/Character/sheep_low_MixamoRig_Skeleton.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Art/Character/T_Sheep_AORM.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Art/Character/T_Sheep_Normals.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Art/Character/T_Sheep_BaseColor.uasset",
+				"C:/Users/Marke/OneDrive/Documentos/Metroidvania/Metroidvania/Content/Levels/L_Test_Markel.umap"
+			]
+		}
+	]
+}
